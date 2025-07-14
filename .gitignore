@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# Environment files
+.env
+*.env
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Python virtual environments
+venv/
+ENV/
+.env/
+
+# Build outputs
+build/
+dist/
+*.egg-info/
+
+# Misc
+*.log
+*.sqlite3
+
+# Ignore folders for exercises
+1. Data types/__pycache__/
+2. Control Structures/__pycache__/
+3. Functions/__pycache__/
